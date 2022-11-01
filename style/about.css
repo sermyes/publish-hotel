@@ -1,0 +1,341 @@
+@media screen and (min-width: 1280px) {
+  .main_page3 {
+    background-image: url("../images/hero_2.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page3 div > * {
+    color: #fff;
+  }
+  .main_page3 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .tourArea figure:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .tourArea figure > * {
+    float: left;
+    width: 48%;
+  }
+  .tourArea figure > figcaption {
+    margin-left: 4%;
+  }
+  .tourArea figure figcaption {
+    text-align: left;
+    padding: 130px 2.5%;
+    box-sizing: border-box;
+  }
+  .tourArea figure figcaption h2 {
+    font-size: 40px;
+    line-height: 48px;
+    margin-bottom: 45px;
+    padding: 0;
+  }
+  .tourArea figure figcaption p:first-of-type {
+    margin-bottom: 25px;
+  }
+  .tourArea figure figcaption p:last-of-type {
+    margin-bottom: 60px;
+  }
+  .tourArea figure figcaption a {
+    border-color: #65c0ba;
+    color: #65c0ba;
+    transition-duration: 0.5s;
+  }
+  .tourArea figure figcaption a:hover {
+    color: #fff;
+    background-color: #65c0ba;
+  }
+  /* tourArea fin */
+
+  /* slideArea page1 equal */
+
+  .teamArea {
+    text-align: center;
+  }
+  .teamArea h2 {
+    font-weight: 500;
+    font-size: 32px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .teamArea p {
+    margin-bottom: 60px;
+  }
+  .teamArea ul:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .teamArea ul li {
+    display: block;
+    float: left;
+    width: 31%;
+    margin-bottom: 15px;
+  }
+  .teamArea ul li figure {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    text-align: left;
+  }
+  .teamArea ul li:nth-child(2),
+  .teamArea ul li:nth-child(3),
+  .teamArea ul li:nth-child(5),
+  .teamArea ul li:nth-child(6) {
+    margin-left: 2%;
+  }
+  .teamArea ul li figure > a {
+    display: block;
+  }
+  .teamArea ul li figure > a img {
+    width: 100%;
+  }
+  .teamArea ul li figure figcaption {
+    padding: 30px 5%;
+  }
+  .teamArea ul li figure figcaption p {
+    color: #ced4da;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+  }
+  .teamArea ul li figure figcaption h3 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .teamArea ul li figure figcaption h3 a {
+    color: #000;
+    transition: color 0.5s;
+  }
+  .teamArea ul li figure figcaption h3 a:hover {
+    color: #65c0ba;
+  }
+  /* teamArea fin */
+}
+/* desktop fin */
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .main_page3 {
+    background-image: url("../images/hero_2.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page3 div > * {
+    color: #fff;
+  }
+  .main_page3 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .tourArea figure:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .tourArea figure > * {
+    float: left;
+    width: 48%;
+  }
+  .tourArea figure > figcaption {
+    margin-left: 4%;
+  }
+  .tourArea figure figcaption {
+    text-align: left;
+    padding: 0 2.5%;
+    box-sizing: border-box;
+  }
+  .tourArea figure figcaption h2 {
+    font-size: 32px;
+    line-height: 48px;
+    margin-bottom: 45px;
+    padding: 0;
+  }
+  .tourArea figure figcaption p:first-of-type {
+    margin-bottom: 25px;
+  }
+  .tourArea figure figcaption p:last-of-type {
+    margin-bottom: 60px;
+  }
+  .tourArea figure figcaption a {
+    border-color: #65c0ba;
+    color: #65c0ba;
+    transition-duration: 0.5s;
+  }
+  .tourArea figure figcaption a:hover {
+    color: #fff;
+    background-color: #65c0ba;
+  }
+  /* tourArea fin */
+
+  /* slideArea page1 equal */
+
+  .teamArea {
+    text-align: center;
+  }
+  .teamArea h2 {
+    font-weight: 500;
+    font-size: 32px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .teamArea p {
+    margin-bottom: 60px;
+  }
+  .teamArea ul:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .teamArea ul li {
+    display: block;
+    float: left;
+    width: 48%;
+    margin-bottom: 15px;
+  }
+  .teamArea ul li figure {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    text-align: left;
+  }
+  .teamArea ul li:nth-child(even) {
+    margin-left: 4%;
+  }
+  .teamArea ul li figure > a {
+    display: block;
+  }
+  .teamArea ul li figure > a img {
+    width: 100%;
+  }
+  .teamArea ul li figure figcaption {
+    padding: 30px 5%;
+  }
+  .teamArea ul li figure figcaption p {
+    color: #ced4da;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+  }
+  .teamArea ul li figure figcaption h3 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .teamArea ul li figure figcaption h3 a {
+    color: #000;
+    transition: color 0.5s;
+  }
+  .teamArea ul li figure figcaption h3 a:hover {
+    color: #65c0ba;
+  }
+  /* teamArea fin */
+}
+/* tablet fin */
+
+@media screen and (max-width: 767px) {
+  .main_page3 {
+    background-image: url("../images/hero_2.jpg");
+    position: relative;
+    padding: 180px 0;
+  }
+  .main_page3 div > * {
+    color: #fff;
+  }
+  .main_page3 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .tourArea figure img {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .tourArea figure figcaption {
+    text-align: left;
+    padding: 0 2.5%;
+    box-sizing: border-box;
+  }
+  .tourArea figure figcaption h2 {
+    font-size: 32px;
+    line-height: 48px;
+    margin-bottom: 25px;
+    padding: 0;
+  }
+  .tourArea figure figcaption p:first-of-type {
+    margin-bottom: 25px;
+  }
+  .tourArea figure figcaption p:last-of-type {
+    margin-bottom: 60px;
+  }
+  .tourArea figure figcaption a {
+    border-color: #65c0ba;
+    color: #65c0ba;
+    transition-duration: 0.5s;
+  }
+  .tourArea figure figcaption a:hover {
+    color: #fff;
+    background-color: #65c0ba;
+  }
+  /* tourArea fin */
+
+  /* slideArea page1 equal */
+
+  .teamArea {
+    text-align: center;
+  }
+  .teamArea h2 {
+    font-weight: 500;
+    font-size: 32px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .teamArea p {
+    margin-bottom: 60px;
+  }
+  .teamArea ul li {
+    display: block;
+  }
+  .teamArea ul li:not(:last-child) {
+    margin-bottom: 15px;
+  }
+  .teamArea ul li figure {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    text-align: left;
+  }
+  .teamArea ul li figure > a {
+    display: block;
+  }
+  .teamArea ul li figure > a img {
+    width: 100%;
+  }
+  .teamArea ul li figure figcaption {
+    padding: 30px 5%;
+  }
+  .teamArea ul li figure figcaption p {
+    color: #ced4da;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+  }
+  .teamArea ul li figure figcaption h3 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .teamArea ul li figure figcaption h3 a {
+    color: #000;
+    transition: color 0.5s;
+  }
+  .teamArea ul li figure figcaption h3 a:hover {
+    color: #65c0ba;
+  }
+  /* teamArea fin */
+}
+/* mobile fin */

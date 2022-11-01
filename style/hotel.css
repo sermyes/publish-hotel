@@ -1,0 +1,468 @@
+@media screen and (min-width: 1280px) {
+  .main_page2 {
+    background-image: url("../images/hero_5.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page2 div > * {
+    color: #fff;
+  }
+  .main_page2 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .serviceArea ul {
+    text-align: center;
+  }
+  .serviceArea ul:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .serviceArea ul li {
+    display: block;
+    float: left;
+    width: 32%;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 70px;
+  }
+  .serviceArea ul li:nth-child(1) {
+    background-image: url("../images/ico_01.svg");
+  }
+  .serviceArea ul li:nth-child(2) {
+    background-image: url("../images/ico_02.svg");
+    margin-left: 2%;
+  }
+  .serviceArea ul li:nth-child(3) {
+    background-image: url("../images/ico_03.svg");
+    margin-left: 2%;
+  }
+  .serviceArea ul li:nth-child(4) {
+    background-image: url("../images/ico_04.svg");
+  }
+  .serviceArea ul li:nth-child(5) {
+    background-image: url("../images/ico_05.svg");
+    margin-left: 2%;
+  }
+  .serviceArea ul li:nth-child(6) {
+    background-image: url("../images/ico_06.svg");
+    margin-left: 2%;
+  }
+  .serviceArea ul li h3 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  /* serviceArea fin */
+
+  .roomArea ul li {
+    display: block;
+    text-align: center;
+  }
+  .roomArea ul li figure:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .roomArea ul li:first-child figure > * {
+    float: left;
+    width: 50%;
+  }
+  .roomArea ul li:last-child figure > img {
+    float: right;
+    width: 50%;
+  }
+  .roomArea ul li:last-child figure > figcaption {
+    float: left;
+    width: 50%;
+  }
+  .roomArea ul li figure figcaption {
+    text-align: left;
+    padding: 130px 2.5%;
+    box-sizing: border-box;
+  }
+  .roomArea ul li figure figcaption h2 {
+    font-size: 40px;
+    line-height: 48px;
+    margin-bottom: 45px;
+    padding: 0;
+  }
+  .roomArea ul li figure figcaption p:first-of-type {
+    margin-bottom: 25px;
+  }
+  .roomArea ul li figure figcaption p:last-of-type {
+    margin-bottom: 60px;
+  }
+  .roomArea ul li figure figcaption a {
+    border-color: #65c0ba;
+    color: #65c0ba;
+    transition-duration: 0.5s;
+  }
+  .roomArea ul li figure figcaption a:hover {
+    color: #fff;
+    background-color: #65c0ba;
+  }
+  /* roomArea fin */
+
+  /* slideArea page1 equal */
+
+  .featureArea {
+    background-color: #e9ecef;
+    position: relative;
+    text-align: center;
+    margin-top: -300px;
+    padding-top: 300px;
+  }
+  .featureArea div h2 {
+    font-size: 70px;
+    margin-bottom: 25px;
+  }
+  .featureArea div p {
+    margin-bottom: 65px;
+  }
+  .featureArea div ul {
+    margin-bottom: 20px;
+  }
+  .featureArea div ul:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .featureArea div ul li {
+    float: left;
+    width: 32%;
+    background-color: #fff;
+    display: block;
+    text-align: left;
+  }
+  .featureArea div ul li:not(:first-child) {
+    margin-left: 2%;
+  }
+  .featureArea div ul li a {
+    display: block;
+  }
+  .featureArea div ul li a img {
+    width: 100%;
+  }
+  .featureArea div ul li h3 {
+    padding: 30px 8%;
+  }
+  .featureArea div ul li h3 a {
+    font-size: 26px;
+    color: #000;
+    transition: color 0.5s;
+  }
+  .featureArea div ul li h3 a:hover {
+    color: #65c0ba;
+  }
+}
+/* desktop fin */
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .main_page2 {
+    background-image: url("../images/hero_5.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page2 div > * {
+    color: #fff;
+  }
+  .main_page2 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .serviceArea ul {
+    text-align: center;
+  }
+  .serviceArea ul:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .serviceArea ul li {
+    display: block;
+    float: left;
+    width: 48%;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 70px;
+    margin-bottom: 30px;
+  }
+  .serviceArea ul li:nth-child(even) {
+    margin-left: 4%;
+  }
+  .serviceArea ul li:nth-child(1) {
+    background-image: url("../images/ico_01.svg");
+  }
+  .serviceArea ul li:nth-child(2) {
+    background-image: url("../images/ico_02.svg");
+  }
+  .serviceArea ul li:nth-child(3) {
+    background-image: url("../images/ico_03.svg");
+  }
+  .serviceArea ul li:nth-child(4) {
+    background-image: url("../images/ico_04.svg");
+  }
+  .serviceArea ul li:nth-child(5) {
+    background-image: url("../images/ico_05.svg");
+  }
+  .serviceArea ul li:nth-child(6) {
+    background-image: url("../images/ico_06.svg");
+  }
+  .serviceArea ul li h3 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  /* serviceArea fin */
+
+  .roomArea ul li {
+    display: block;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .roomArea ul li figure:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .roomArea ul li:first-child figure > * {
+    float: left;
+    width: 50%;
+  }
+  .roomArea ul li:last-child figure > img {
+    float: right;
+    width: 50%;
+  }
+  .roomArea ul li:last-child figure > figcaption {
+    float: left;
+    width: 50%;
+  }
+  .roomArea ul li figure figcaption {
+    text-align: left;
+    padding: 0 2.5%;
+    box-sizing: border-box;
+  }
+  .roomArea ul li figure figcaption h2 {
+    font-size: 32px;
+    line-height: 48px;
+    margin-bottom: 45px;
+    padding: 0;
+  }
+  .roomArea ul li figure figcaption p:first-of-type {
+    margin-bottom: 25px;
+  }
+  .roomArea ul li figure figcaption p:last-of-type {
+    margin-bottom: 60px;
+  }
+  .roomArea ul li figure figcaption a {
+    border-color: #65c0ba;
+    color: #65c0ba;
+    transition-duration: 0.5s;
+  }
+  .roomArea ul li figure figcaption a:hover {
+    color: #fff;
+    background-color: #65c0ba;
+  }
+  /* roomArea fin */
+
+  /* slideArea page1 equal */
+
+  .featureArea {
+    background-color: #e9ecef;
+    position: relative;
+    text-align: center;
+    margin-top: -300px;
+    padding-top: 300px;
+  }
+  .featureArea div h2 {
+    font-size: 50px;
+    margin-bottom: 25px;
+  }
+  .featureArea div p {
+    margin-bottom: 65px;
+  }
+  .featureArea div ul {
+    margin-bottom: 20px;
+  }
+  .featureArea div ul:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .featureArea div ul li {
+    float: left;
+    width: 48%;
+    background-color: #fff;
+    display: block;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .featureArea div ul li:nth-child(even) {
+    margin-left: 4%;
+  }
+  .featureArea div ul li a {
+    display: block;
+  }
+  .featureArea div ul li a img {
+    width: 100%;
+  }
+  .featureArea div ul li h3 {
+    padding: 30px 8%;
+  }
+  .featureArea div ul li h3 a {
+    font-size: 26px;
+    color: #000;
+    transition: color 0.5s;
+    line-height: 32px;
+  }
+  .featureArea div ul li h3 a:hover {
+    color: #65c0ba;
+  }
+}
+/* tablet fin */
+
+@media screen and (max-width: 767px) {
+  .main_page2 {
+    background-image: url("../images/hero_5.jpg");
+    position: relative;
+    padding: 180px 0;
+  }
+  .main_page2 div > * {
+    color: #fff;
+  }
+  .main_page2 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .serviceArea ul {
+    text-align: center;
+  }
+  .serviceArea ul li {
+    display: block;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 70px;
+    margin-bottom: 30px;
+  }
+  .serviceArea ul li:nth-child(1) {
+    background-image: url("../images/ico_01.svg");
+  }
+  .serviceArea ul li:nth-child(2) {
+    background-image: url("../images/ico_02.svg");
+  }
+  .serviceArea ul li:nth-child(3) {
+    background-image: url("../images/ico_03.svg");
+  }
+  .serviceArea ul li:nth-child(4) {
+    background-image: url("../images/ico_04.svg");
+  }
+  .serviceArea ul li:nth-child(5) {
+    background-image: url("../images/ico_05.svg");
+  }
+  .serviceArea ul li:nth-child(6) {
+    background-image: url("../images/ico_06.svg");
+  }
+  .serviceArea ul li h3 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  /* serviceArea fin */
+
+  .roomArea ul li {
+    display: block;
+    text-align: center;
+  }
+  .roomArea ul li:first-child {
+    margin-bottom: 60px;
+  }
+  .roomArea ul li figure img {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .roomArea ul li figure figcaption {
+    text-align: left;
+    padding: 0 2.5%;
+    box-sizing: border-box;
+  }
+  .roomArea ul li figure figcaption h2 {
+    font-size: 32px;
+    line-height: 48px;
+    margin-bottom: 25px;
+    padding: 0;
+  }
+  .roomArea ul li figure figcaption p:first-of-type {
+    margin-bottom: 25px;
+  }
+  .roomArea ul li figure figcaption p:last-of-type {
+    margin-bottom: 60px;
+  }
+  .roomArea ul li figure figcaption a {
+    border-color: #65c0ba;
+    color: #65c0ba;
+    transition-duration: 0.5s;
+  }
+  .roomArea ul li figure figcaption a:hover {
+    color: #fff;
+    background-color: #65c0ba;
+  }
+  /* roomArea fin */
+
+  /* slideArea page1 equal */
+
+  .featureArea {
+    background-color: #e9ecef;
+    position: relative;
+    text-align: center;
+    margin-top: -300px;
+    padding-top: 300px;
+  }
+  .featureArea div h2 {
+    font-size: 40px;
+    margin-bottom: 25px;
+  }
+  .featureArea div p {
+    margin-bottom: 65px;
+  }
+  .featureArea div ul {
+    margin-bottom: 20px;
+  }
+  .featureArea div ul li {
+    background-color: #fff;
+    display: block;
+    text-align: left;
+  }
+  .featureArea div ul li:not(:last-child) {
+    margin-bottom: 30px;
+  }
+  .featureArea div ul li a {
+    display: block;
+  }
+  .featureArea div ul li a img {
+    width: 100%;
+  }
+  .featureArea div ul li h3 {
+    padding: 30px 8%;
+  }
+  .featureArea div ul li h3 a {
+    font-size: 26px;
+    color: #000;
+    transition: color 0.5s;
+    line-height: 32px;
+  }
+  .featureArea div ul li h3 a:hover {
+    color: #65c0ba;
+  }
+}
+/* mobile fin */

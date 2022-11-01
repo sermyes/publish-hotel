@@ -1,0 +1,296 @@
+@media screen and (min-width: 1279px) {
+  .main_page6 {
+    background-image: url("../images/hero_4.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page6 div > * {
+    color: #fff;
+  }
+  .main_page6 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .contactArea:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .contactArea > * {
+    float: left;
+  }
+  .contactArea form {
+    width: 60%;
+    box-shadow: 0 3px 20px -5px rgba(0, 0, 0, 0.5);
+  }
+  .contactArea ul {
+    width: 35%;
+    margin-left: 5%;
+  }
+  .contactArea form fieldset {
+    padding: 55px 7.5%;
+  }
+  .contactArea form fieldset:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .contactArea form fieldset .uName,
+  .contactArea form fieldset .uPhone {
+    float: left;
+    width: 48%;
+  }
+  .contactArea form fieldset .uPhone {
+    margin-left: 4%;
+  }
+  .contactArea form fieldset label,
+  .contactArea form fieldset input {
+    display: block;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  .contactArea form fieldset input {
+    height: 50px;
+    line-height: 24px;
+  }
+  .contactArea form fieldset label {
+    font-weight: 200;
+    font-size: 18px;
+    color: #6c757d;
+    line-height: 50px;
+  }
+  .contactArea form fieldset input,
+  .contactArea form fieldset textarea {
+    border: 2px solid #cccccc;
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #495057;
+    outline-color: #65c0ba;
+  }
+  .contactArea form fieldset textarea {
+    resize: none;
+    height: 190px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  .contactArea form fieldset input[type="submit"] {
+    background-color: #fff;
+    max-width: 150px;
+    border: 2px solid #65c0ba;
+    padding: 0 2.5%;
+  }
+  /* left form fin */
+
+  .contactArea ul li {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .contactArea ul li p {
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #65c0ba;
+    font-weight: bold;
+  }
+  .contactArea ul li span {
+    display: block;
+    color: #000;
+    font-size: 30px;
+    font-weight: 200;
+    line-height: 54px;
+    letter-spacing: 0;
+  }
+}
+/* desktop fin */
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .main_page6 {
+    background-image: url("../images/hero_4.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page6 div > * {
+    color: #fff;
+  }
+  .main_page6 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .contactArea:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .contactArea > * {
+    float: left;
+  }
+  .contactArea form {
+    width: 60%;
+    box-shadow: 0 3px 20px -5px rgba(0, 0, 0, 0.5);
+  }
+  .contactArea ul {
+    width: 35%;
+    margin-left: 5%;
+  }
+  .contactArea form fieldset {
+    padding: 55px 7.5%;
+  }
+  .contactArea form fieldset:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    clear: both;
+  }
+  .contactArea form fieldset .uName,
+  .contactArea form fieldset .uPhone {
+    float: left;
+    width: 48%;
+  }
+  .contactArea form fieldset .uPhone {
+    margin-left: 4%;
+  }
+  .contactArea form fieldset label,
+  .contactArea form fieldset input {
+    display: block;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  .contactArea form fieldset input {
+    height: 50px;
+    line-height: 24px;
+  }
+  .contactArea form fieldset label {
+    font-weight: 200;
+    font-size: 18px;
+    color: #6c757d;
+    line-height: 50px;
+  }
+  .contactArea form fieldset input,
+  .contactArea form fieldset textarea {
+    border: 2px solid #cccccc;
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #495057;
+    outline-color: #65c0ba;
+  }
+  .contactArea form fieldset textarea {
+    resize: none;
+    height: 190px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  .contactArea form fieldset input[type="submit"] {
+    background-color: #fff;
+    max-width: 150px;
+    border: 2px solid #65c0ba;
+    padding: 0 2.5%;
+  }
+  /* left form fin */
+
+  .contactArea ul li {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .contactArea ul li p {
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #65c0ba;
+    font-weight: bold;
+  }
+  .contactArea ul li span {
+    display: block;
+    color: #000;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 54px;
+    letter-spacing: 0;
+  }
+}
+/* tablet fin */
+
+@media screen and (max-width: 767px) {
+  .main_page6 {
+    background-image: url("../images/hero_4.jpg");
+    position: relative;
+    padding: 180px 0;
+  }
+  .main_page6 div > * {
+    color: #fff;
+  }
+  .main_page6 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .contactArea form {
+    box-shadow: 0 3px 20px -5px rgba(0, 0, 0, 0.5);
+    margin-bottom: 35px;
+  }
+  .contactArea form fieldset {
+    padding: 55px 7.5%;
+  }
+  .contactArea form fieldset label,
+  .contactArea form fieldset input {
+    display: block;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  .contactArea form fieldset input {
+    height: 50px;
+    line-height: 24px;
+  }
+  .contactArea form fieldset label {
+    font-weight: 200;
+    font-size: 18px;
+    color: #6c757d;
+    line-height: 50px;
+  }
+  .contactArea form fieldset input,
+  .contactArea form fieldset textarea {
+    border: 2px solid #cccccc;
+    width: 100%;
+    font-size: 16px;
+    line-height: 24px;
+    color: #495057;
+    outline-color: #65c0ba;
+  }
+  .contactArea form fieldset textarea {
+    resize: none;
+    height: 190px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  .contactArea form fieldset input[type="submit"] {
+    background-color: #fff;
+    max-width: 150px;
+    border: 2px solid #65c0ba;
+    padding: 0 2.5%;
+  }
+  /* left form fin */
+
+  .contactArea ul li {
+    display: block;
+    margin-bottom: 20px;
+  }
+  .contactArea ul li p {
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #65c0ba;
+    font-weight: bold;
+  }
+  .contactArea ul li span {
+    display: block;
+    color: #000;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 54px;
+    letter-spacing: 0;
+  }
+}
+/* mobile fin */

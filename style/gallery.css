@@ -1,0 +1,126 @@
+@media screen and (min-width: 1280px) {
+  .main_page4 {
+    background-image: url("../images/hero_4.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page4 div > * {
+    color: #fff;
+  }
+  .main_page4 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .photoArea > ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+  .photoArea > ul li {
+    flex: 0 1 23.5%;
+    display: block;
+    margin-bottom: 24px;
+    box-sizing: border-box;
+  }
+  .photoArea > ul li:nth-child(9),
+  .photoArea > ul li:nth-child(10) {
+    flex: 0 0 49%;
+  }
+  .photoArea a {
+    display: block;
+  }
+  .photoArea img {
+    width: 100%;
+  }
+  .fancybox-thumbs__list a {
+    opacity: 0.5;
+  }
+  .fancybox-thumbs__list a.fancybox-thumbs-active {
+    opacity: 1;
+  }
+  /* photoArea fin */
+}
+/* desktop fin */
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .main_page4 {
+    background-image: url("../images/hero_4.jpg");
+    position: relative;
+    padding: 220px 0;
+  }
+  .main_page4 div > * {
+    color: #fff;
+  }
+  .main_page4 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .photoArea > ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+  .photoArea > ul li {
+    flex: 0 1 48%;
+    display: block;
+    margin-bottom: 24px;
+    box-sizing: border-box;
+  }
+  .photoArea a {
+    display: block;
+  }
+  .photoArea img {
+    width: 100%;
+  }
+  .fancybox-thumbs__list a {
+    opacity: 0.5;
+  }
+  .fancybox-thumbs__list a.fancybox-thumbs-active {
+    opacity: 1;
+  }
+  /* photoArea fin */
+}
+/* tablet fin */
+
+@media screen and (max-width: 767px) {
+  .main_page4 {
+    background-image: url("../images/hero_4.jpg");
+    position: relative;
+    padding: 180px 0;
+  }
+  .main_page4 div > * {
+    color: #fff;
+  }
+  .main_page4 div > p {
+    margin-bottom: 65px;
+  }
+  /* mainArea fin */
+
+  .photoArea > ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+  .photoArea > ul li {
+    flex: 0 1 100%;
+    display: block;
+    margin-bottom: 24px;
+    box-sizing: border-box;
+  }
+  .photoArea a {
+    display: block;
+  }
+  .photoArea img {
+    width: 100%;
+  }
+  .fancybox-thumbs__list a {
+    opacity: 0.5;
+  }
+  .fancybox-thumbs__list a.fancybox-thumbs-active {
+    opacity: 1;
+  }
+  /* photoArea fin */
+}
+/* mobile fin */

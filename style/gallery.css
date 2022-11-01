@@ -1,6 +1,6 @@
 @media screen and (min-width: 1280px) {
   .main_page4 {
-    background-image: url("../images/hero_4.jpg");
+    background-image: url('../images/hero_4.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -45,7 +45,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .main_page4 {
-    background-image: url("../images/hero_4.jpg");
+    background-image: url('../images/hero_4.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -86,7 +86,7 @@
 
 @media screen and (max-width: 767px) {
   .main_page4 {
-    background-image: url("../images/hero_4.jpg");
+    background-image: url('../images/hero_4.jpg');
     position: relative;
     padding: 180px 0;
   }

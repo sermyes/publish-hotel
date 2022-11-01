@@ -4,19 +4,19 @@ h4,
 h3,
 h2,
 .contactArea ul li span {
-  font-family: "Abril Fatface", cursive;
+  font-family: 'Abril Fatface', cursive;
 }
 footer p,
-footer > div > div:nth-of-type(4) input[type="email"],
+footer > div > div:nth-of-type(4) input[type='email'],
 p,
 .mainArea div > a,
 .vedioArea figure figcaption a,
 .newsArea .leftContents ol li a,
-.newsArea .rightContents fieldset input[type="search"],
+.newsArea .rightContents fieldset input[type='search'],
 .newsArea .rightContents div:last-of-type ul li a,
 .newsArea .rightContents div h3,
 .contactArea form fieldset label {
-  font-family: "Mukta Mahee", sans-serif;
+  font-family: 'Mukta Mahee', sans-serif;
 }
 .hiddenTitle {
   display: none;
@@ -83,26 +83,26 @@ body {
     margin: 0 auto;
     padding: 130px 0;
   }
-  *[class*="Area"] h2,
-  *[class*="Area"] h3 {
+  *[class*='Area'] h2,
+  *[class*='Area'] h3 {
     color: #000;
     font-weight: 500;
   }
-  *[class*="Area"] p,
+  *[class*='Area'] p,
   .visitArea ul li > span {
     font-size: 18px;
     font-weight: 200;
     line-height: 32px;
     color: #6c757d;
   }
-  *[class*="Area"] .lead {
+  *[class*='Area'] .lead {
     font-size: 20px;
     font-weight: 300;
     line-height: 36px;
     color: #6c757d;
   }
-  *[class*="Area"] h2,
-  *[class*="Area"] .lead {
+  *[class*='Area'] h2,
+  *[class*='Area'] .lead {
     padding: 0 15%;
   }
   /* desktop all using css */
@@ -150,7 +150,7 @@ body {
     background-color: #fff;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.8s;
+    transition: opacity 1s;
   }
   header nav.on {
     opacity: 1;
@@ -202,7 +202,7 @@ body {
     color: #fff;
   }
   footer > div:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -229,7 +229,7 @@ body {
     border-bottom: solid rgba(255, 255, 255, 0.2);
   }
   footer > div > div:nth-of-type(4) fieldset:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -237,7 +237,7 @@ body {
   footer > div > div:nth-of-type(4) fieldset > * {
     display: float;
   }
-  footer > div > div:nth-of-type(4) input[type="email"] {
+  footer > div > div:nth-of-type(4) input[type='email'] {
     width: 75%;
     box-sizing: border-box;
     line-height: 50px;
@@ -249,16 +249,16 @@ body {
     padding: 0 3%;
     outline: none;
   }
-  footer > div > div:nth-of-type(4) input[type="email"]::placeholder {
+  footer > div > div:nth-of-type(4) input[type='email']::placeholder {
     color: #6c757d;
     font-style: italic;
   }
-  footer > div > div:nth-of-type(4) input[type="submit"] {
+  footer > div > div:nth-of-type(4) input[type='submit'] {
     width: 20%;
     text-indent: -9999px;
     border: none;
     padding: 2px 2px;
-    background: transparent url("../images/btn_send1.png") no-repeat left center;
+    background: transparent url('../images/btn_send1.png') no-repeat left center;
     line-height: 48px;
     box-sizing: border-box;
   }
@@ -334,26 +334,26 @@ body {
     margin: 0 auto;
     padding: 80px 0;
   }
-  *[class*="Area"] h2,
-  *[class*="Area"] h3 {
+  *[class*='Area'] h2,
+  *[class*='Area'] h3 {
     color: #000;
     font-weight: 500;
   }
-  *[class*="Area"] p,
+  *[class*='Area'] p,
   .visitArea ul li > span {
     font-size: 18px;
     font-weight: 200;
     line-height: 32px;
     color: #6c757d;
   }
-  *[class*="Area"] .lead {
+  *[class*='Area'] .lead {
     font-size: 20px;
     font-weight: 300;
     line-height: 36px;
     color: #6c757d;
   }
-  *[class*="Area"] h2,
-  *[class*="Area"] .lead {
+  *[class*='Area'] h2,
+  *[class*='Area'] .lead {
     padding: 0 15%;
   }
   /* desktop all using css */
@@ -401,7 +401,7 @@ body {
     background-color: #fff;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.8s;
+    transition: opacity 1s;
   }
   header nav.on {
     opacity: 1;
@@ -455,7 +455,7 @@ body {
     color: #fff;
   }
   footer > div:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -482,7 +482,7 @@ body {
     border-bottom: solid rgba(255, 255, 255, 0.2);
   }
   footer > div > div:nth-of-type(4) fieldset:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -490,7 +490,7 @@ body {
   footer > div > div:nth-of-type(4) fieldset > * {
     display: float;
   }
-  footer > div > div:nth-of-type(4) input[type="email"] {
+  footer > div > div:nth-of-type(4) input[type='email'] {
     width: 75%;
     box-sizing: border-box;
     line-height: 50px;
@@ -502,16 +502,16 @@ body {
     padding: 0 3%;
     outline: none;
   }
-  footer > div > div:nth-of-type(4) input[type="email"]::placeholder {
+  footer > div > div:nth-of-type(4) input[type='email']::placeholder {
     color: #6c757d;
     font-style: italic;
   }
-  footer > div > div:nth-of-type(4) input[type="submit"] {
+  footer > div > div:nth-of-type(4) input[type='submit'] {
     width: 20%;
     text-indent: -9999px;
     border: none;
     padding: 2px 2px;
-    background: transparent url("../images/btn_send1.png") no-repeat left center;
+    background: transparent url('../images/btn_send1.png') no-repeat left center;
     line-height: 48px;
     box-sizing: border-box;
   }
@@ -586,19 +586,19 @@ body {
     margin: 0 auto;
     padding: 70px 2.5%;
   }
-  *[class*="Area"] h2,
-  *[class*="Area"] h3 {
+  *[class*='Area'] h2,
+  *[class*='Area'] h3 {
     color: #000;
     font-weight: 500;
   }
-  *[class*="Area"] p,
+  *[class*='Area'] p,
   .visitArea ul li > span {
     font-size: 18px;
     font-weight: 200;
     line-height: 32px;
     color: #6c757d;
   }
-  *[class*="Area"] .lead {
+  *[class*='Area'] .lead {
     font-size: 16px;
     font-weight: 300;
     line-height: 36px;
@@ -650,7 +650,7 @@ body {
     z-index: 100;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.8s;
+    transition: opacity 1s;
   }
   header nav.on {
     opacity: 1;
@@ -718,7 +718,7 @@ body {
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   }
   footer > div > div:nth-of-type(4) fieldset:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -726,7 +726,7 @@ body {
   footer > div > div:nth-of-type(4) fieldset > * {
     display: float;
   }
-  footer > div > div:nth-of-type(4) input[type="email"] {
+  footer > div > div:nth-of-type(4) input[type='email'] {
     width: 75%;
     box-sizing: border-box;
     line-height: 50px;
@@ -738,16 +738,16 @@ body {
     padding: 0 3%;
     outline: none;
   }
-  footer > div > div:nth-of-type(4) input[type="email"]::placeholder {
+  footer > div > div:nth-of-type(4) input[type='email']::placeholder {
     color: #6c757d;
     font-style: italic;
   }
-  footer > div > div:nth-of-type(4) input[type="submit"] {
+  footer > div > div:nth-of-type(4) input[type='submit'] {
     width: 20%;
     text-indent: -9999px;
     border: none;
     padding: 2px 2px;
-    background: transparent url("../images/btn_send1.png") no-repeat center;
+    background: transparent url('../images/btn_send1.png') no-repeat center;
     line-height: 48px;
     box-sizing: border-box;
   }

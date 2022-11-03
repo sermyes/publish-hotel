@@ -258,7 +258,8 @@ body {
     text-indent: -9999px;
     border: none;
     padding: 2px 2px;
-    background: transparent url('../images/btn_send1.png') no-repeat left center;
+    background: transparent url('../assets/images/btn_send1.png') no-repeat left
+      center;
     line-height: 48px;
     box-sizing: border-box;
   }
@@ -511,7 +512,8 @@ body {
     text-indent: -9999px;
     border: none;
     padding: 2px 2px;
-    background: transparent url('../images/btn_send1.png') no-repeat left center;
+    background: transparent url('../assets/images/btn_send1.png') no-repeat left
+      center;
     line-height: 48px;
     box-sizing: border-box;
   }
@@ -747,7 +749,8 @@ body {
     text-indent: -9999px;
     border: none;
     padding: 2px 2px;
-    background: transparent url('../images/btn_send1.png') no-repeat center;
+    background: transparent url('../assets/images/btn_send1.png') no-repeat
+      center;
     line-height: 48px;
     box-sizing: border-box;
   }

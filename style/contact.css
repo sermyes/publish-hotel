@@ -1,6 +1,6 @@
 @media screen and (min-width: 1279px) {
   .main_page6 {
-    background-image: url("../images/hero_4.jpg");
+    background-image: url('../assets/images/hero_4.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -13,7 +13,7 @@
   /* mainArea fin */
 
   .contactArea:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -33,7 +33,7 @@
     padding: 55px 7.5%;
   }
   .contactArea form fieldset:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -77,7 +77,7 @@
     box-sizing: border-box;
     margin-bottom: 20px;
   }
-  .contactArea form fieldset input[type="submit"] {
+  .contactArea form fieldset input[type='submit'] {
     background-color: #fff;
     max-width: 150px;
     border: 2px solid #65c0ba;
@@ -108,7 +108,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .main_page6 {
-    background-image: url("../images/hero_4.jpg");
+    background-image: url('../assets/images/hero_4.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -121,7 +121,7 @@
   /* mainArea fin */
 
   .contactArea:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -141,7 +141,7 @@
     padding: 55px 7.5%;
   }
   .contactArea form fieldset:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -185,7 +185,7 @@
     box-sizing: border-box;
     margin-bottom: 20px;
   }
-  .contactArea form fieldset input[type="submit"] {
+  .contactArea form fieldset input[type='submit'] {
     background-color: #fff;
     max-width: 150px;
     border: 2px solid #65c0ba;
@@ -216,7 +216,7 @@
 
 @media screen and (max-width: 767px) {
   .main_page6 {
-    background-image: url("../images/hero_4.jpg");
+    background-image: url('../assets/images/hero_4.jpg');
     position: relative;
     padding: 180px 0;
   }
@@ -266,7 +266,7 @@
     box-sizing: border-box;
     margin-bottom: 20px;
   }
-  .contactArea form fieldset input[type="submit"] {
+  .contactArea form fieldset input[type='submit'] {
     background-color: #fff;
     max-width: 150px;
     border: 2px solid #65c0ba;

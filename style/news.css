@@ -1,6 +1,6 @@
 @media screen and (min-width: 1280px) {
   .main_page5 {
-    background-image: url("../images/hero_3.jpg");
+    background-image: url('../assets/images/hero_3.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -13,7 +13,7 @@
   /* mainArea fin */
 
   .newsArea:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -32,7 +32,7 @@
     margin-bottom: 20px;
   }
   .newsArea .leftContents ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -103,14 +103,14 @@
     padding: 30px 9.5%;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
   }
-  .newsArea .rightContents fieldset input[type="search"] {
+  .newsArea .rightContents fieldset input[type='search'] {
     padding-left: 40px;
     height: 50px;
     border: 2px solid #dee2e6;
     color: #495057;
     font-size: 16px;
     line-height: 24px;
-    background: url("../images/ico_search.png") no-repeat 7% center;
+    background: url('../assets/images/ico_search.png') no-repeat 7% center;
   }
   .newsArea .rightContents div h3 {
     font-size: 18px;
@@ -123,7 +123,7 @@
     margin-bottom: 20px;
   }
   .newsArea .rightContents div:first-of-type ul li figure:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -189,7 +189,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .main_page5 {
-    background-image: url("../images/hero_3.jpg");
+    background-image: url('../assets/images/hero_3.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -202,7 +202,7 @@
   /* mainArea fin */
 
   .newsArea:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -221,7 +221,7 @@
     margin-bottom: 20px;
   }
   .newsArea .leftContents ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -291,14 +291,14 @@
     padding: 20px 3%;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
   }
-  .newsArea .rightContents fieldset input[type="search"] {
+  .newsArea .rightContents fieldset input[type='search'] {
     padding-left: 40px;
     height: 50px;
     border: 2px solid #dee2e6;
     color: #495057;
     font-size: 16px;
     line-height: 24px;
-    background: url("../images/ico_search.png") no-repeat 7% center;
+    background: url('../assets/images/ico_search.png') no-repeat 7% center;
   }
   .newsArea .rightContents div h3 {
     font-size: 18px;
@@ -370,7 +370,7 @@
 
 @media screen and (max-width: 767px) {
   .main_page5 {
-    background-image: url("../images/hero_3.jpg");
+    background-image: url('../assets/images/hero_3.jpg');
     position: relative;
     padding: 180px 0;
   }
@@ -448,7 +448,7 @@
     padding: 20px 3%;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
   }
-  .newsArea .rightContents fieldset input[type="search"] {
+  .newsArea .rightContents fieldset input[type='search'] {
     padding-left: 12%;
     height: 50px;
     width: 90%;
@@ -456,7 +456,7 @@
     color: #495057;
     font-size: 16px;
     line-height: 24px;
-    background: url("../images/ico_search.png") no-repeat 7% center;
+    background: url('../assets/images/ico_search.png') no-repeat 7% center;
   }
   .newsArea .rightContents div h3 {
     font-size: 18px;

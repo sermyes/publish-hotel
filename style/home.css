@@ -24,7 +24,7 @@
 
 @media screen and (min-width: 1280px) {
   .main_page1 {
-    background-image: url("../images/hero_1.jpg");
+    background-image: url('../assets/images/hero_1.jpg');
     position: relative;
     padding: 320px 0;
   }
@@ -56,7 +56,7 @@
   /* mainArea fin */
 
   .videoArea figure:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -124,7 +124,7 @@
     margin-bottom: 60px;
   }
   .expArea div ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -139,25 +139,25 @@
     background-size: 70px;
   }
   .expArea div ul li:nth-child(1) {
-    background-image: url("../images/ico_01.svg");
+    background-image: url('../assets/images/ico_01.svg');
   }
   .expArea div ul li:nth-child(2) {
-    background-image: url("../images/ico_02.svg");
+    background-image: url('../assets/images/ico_02.svg');
     margin-left: 2%;
   }
   .expArea div ul li:nth-child(3) {
-    background-image: url("../images/ico_03.svg");
+    background-image: url('../assets/images/ico_03.svg');
     margin-left: 2%;
   }
   .expArea div ul li:nth-child(4) {
-    background-image: url("../images/ico_04.svg");
+    background-image: url('../assets/images/ico_04.svg');
   }
   .expArea div ul li:nth-child(5) {
-    background-image: url("../images/ico_05.svg");
+    background-image: url('../assets/images/ico_05.svg');
     margin-left: 2%;
   }
   .expArea div ul li:nth-child(6) {
-    background-image: url("../images/ico_06.svg");
+    background-image: url('../assets/images/ico_06.svg');
     margin-left: 2%;
   }
   .expArea div ul li h3 {
@@ -254,7 +254,7 @@
   /* slideArea fin */
 
   .blogArea::before {
-    content: "";
+    content: '';
     position: absolute;
     z-index: 0;
     top: 0;
@@ -272,7 +272,7 @@
     color: #fff;
   }
   .blogArea div ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -325,7 +325,7 @@
     margin-bottom: 85px;
   }
   .testimonialArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -370,7 +370,7 @@
     margin-bottom: 20px;
   }
   .visitArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -399,7 +399,7 @@
     position: relative;
     line-height: 24px;
   }
-  .visitArea ul li div span:not([class*="review"]) {
+  .visitArea ul li div span:not([class*='review']) {
     color: #65c0ba;
   }
   .visitArea ul li div .review {
@@ -415,7 +415,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .main_page1 {
-    background-image: url("../images/hero_1.jpg");
+    background-image: url('../assets/images/hero_1.jpg');
     position: relative;
     padding: 320px 0;
   }
@@ -505,7 +505,7 @@
     margin-bottom: 60px;
   }
   .expArea div ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -520,24 +520,24 @@
     background-size: 70px;
   }
   .expArea div ul li:nth-child(1) {
-    background-image: url("../images/ico_01.svg");
+    background-image: url('../assets/images/ico_01.svg');
   }
   .expArea div ul li:nth-child(2) {
-    background-image: url("../images/ico_02.svg");
+    background-image: url('../assets/images/ico_02.svg');
     margin-left: 4%;
   }
   .expArea div ul li:nth-child(3) {
-    background-image: url("../images/ico_03.svg");
+    background-image: url('../assets/images/ico_03.svg');
   }
   .expArea div ul li:nth-child(4) {
-    background-image: url("../images/ico_04.svg");
+    background-image: url('../assets/images/ico_04.svg');
     margin-left: 4%;
   }
   .expArea div ul li:nth-child(5) {
-    background-image: url("../images/ico_05.svg");
+    background-image: url('../assets/images/ico_05.svg');
   }
   .expArea div ul li:nth-child(6) {
-    background-image: url("../images/ico_06.svg");
+    background-image: url('../assets/images/ico_06.svg');
     margin-left: 4%;
   }
   .expArea div ul li h3 {
@@ -621,7 +621,7 @@
   /* slideArea fin */
 
   .blogArea::before {
-    content: "";
+    content: '';
     position: absolute;
     z-index: 0;
     top: 0;
@@ -639,7 +639,7 @@
     color: #fff;
   }
   .blogArea div ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -693,7 +693,7 @@
     margin-bottom: 85px;
   }
   .testimonialArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -738,7 +738,7 @@
     margin-bottom: 20px;
   }
   .visitArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -767,7 +767,7 @@
     position: relative;
     line-height: 24px;
   }
-  .visitArea ul li div span:not([class*="review"]) {
+  .visitArea ul li div span:not([class*='review']) {
     color: #65c0ba;
   }
   .visitArea ul li div .review {
@@ -783,7 +783,7 @@
 
 @media screen and (max-width: 767px) {
   .main_page1 {
-    background-image: url("../images/hero_1.jpg");
+    background-image: url('../assets/images/hero_1.jpg');
     position: relative;
     padding: 190px 0;
   }
@@ -882,22 +882,22 @@
     background-size: 70px;
   }
   .expArea div ul li:nth-child(1) {
-    background-image: url("../images/ico_01.svg");
+    background-image: url('../assets/images/ico_01.svg');
   }
   .expArea div ul li:nth-child(2) {
-    background-image: url("../images/ico_02.svg");
+    background-image: url('../assets/images/ico_02.svg');
   }
   .expArea div ul li:nth-child(3) {
-    background-image: url("../images/ico_03.svg");
+    background-image: url('../assets/images/ico_03.svg');
   }
   .expArea div ul li:nth-child(4) {
-    background-image: url("../images/ico_04.svg");
+    background-image: url('../assets/images/ico_04.svg');
   }
   .expArea div ul li:nth-child(5) {
-    background-image: url("../images/ico_05.svg");
+    background-image: url('../assets/images/ico_05.svg');
   }
   .expArea div ul li:nth-child(6) {
-    background-image: url("../images/ico_06.svg");
+    background-image: url('../assets/images/ico_06.svg');
   }
   .expArea div ul li h3 {
     font-size: 28px;
@@ -980,7 +980,7 @@
   /* slideArea fin */
 
   .blogArea::before {
-    content: "";
+    content: '';
     position: absolute;
     z-index: 0;
     top: 0;
@@ -1098,7 +1098,7 @@
     position: relative;
     line-height: 24px;
   }
-  .visitArea ul li div span:not([class*="review"]) {
+  .visitArea ul li div span:not([class*='review']) {
     color: #65c0ba;
   }
   .visitArea ul li div .review {

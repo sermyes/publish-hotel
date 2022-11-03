@@ -1,6 +1,6 @@
 @media screen and (min-width: 1280px) {
   .main_page3 {
-    background-image: url("../images/hero_2.jpg");
+    background-image: url('../assets/images/hero_2.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -13,7 +13,7 @@
   /* mainArea fin */
 
   .tourArea figure:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -68,7 +68,7 @@
     margin-bottom: 60px;
   }
   .teamArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -122,7 +122,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .main_page3 {
-    background-image: url("../images/hero_2.jpg");
+    background-image: url('../assets/images/hero_2.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -135,7 +135,7 @@
   /* mainArea fin */
 
   .tourArea figure:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -190,7 +190,7 @@
     margin-bottom: 60px;
   }
   .teamArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -241,7 +241,7 @@
 
 @media screen and (max-width: 767px) {
   .main_page3 {
-    background-image: url("../images/hero_2.jpg");
+    background-image: url('../assets/images/hero_2.jpg');
     position: relative;
     padding: 180px 0;
   }

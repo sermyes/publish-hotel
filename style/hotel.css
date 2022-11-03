@@ -1,6 +1,6 @@
 @media screen and (min-width: 1280px) {
   .main_page2 {
-    background-image: url("../images/hero_5.jpg");
+    background-image: url('../assets/images/hero_5.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -16,7 +16,7 @@
     text-align: center;
   }
   .serviceArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -31,25 +31,25 @@
     background-size: 70px;
   }
   .serviceArea ul li:nth-child(1) {
-    background-image: url("../images/ico_01.svg");
+    background-image: url('../assets/images/ico_01.svg');
   }
   .serviceArea ul li:nth-child(2) {
-    background-image: url("../images/ico_02.svg");
+    background-image: url('../assets/images/ico_02.svg');
     margin-left: 2%;
   }
   .serviceArea ul li:nth-child(3) {
-    background-image: url("../images/ico_03.svg");
+    background-image: url('../assets/images/ico_03.svg');
     margin-left: 2%;
   }
   .serviceArea ul li:nth-child(4) {
-    background-image: url("../images/ico_04.svg");
+    background-image: url('../assets/images/ico_04.svg');
   }
   .serviceArea ul li:nth-child(5) {
-    background-image: url("../images/ico_05.svg");
+    background-image: url('../assets/images/ico_05.svg');
     margin-left: 2%;
   }
   .serviceArea ul li:nth-child(6) {
-    background-image: url("../images/ico_06.svg");
+    background-image: url('../assets/images/ico_06.svg');
     margin-left: 2%;
   }
   .serviceArea ul li h3 {
@@ -63,7 +63,7 @@
     text-align: center;
   }
   .roomArea ul li figure:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -128,7 +128,7 @@
     margin-bottom: 20px;
   }
   .featureArea div ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -165,7 +165,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   .main_page2 {
-    background-image: url("../images/hero_5.jpg");
+    background-image: url('../assets/images/hero_5.jpg');
     position: relative;
     padding: 220px 0;
   }
@@ -181,7 +181,7 @@
     text-align: center;
   }
   .serviceArea ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -200,22 +200,22 @@
     margin-left: 4%;
   }
   .serviceArea ul li:nth-child(1) {
-    background-image: url("../images/ico_01.svg");
+    background-image: url('../assets/images/ico_01.svg');
   }
   .serviceArea ul li:nth-child(2) {
-    background-image: url("../images/ico_02.svg");
+    background-image: url('../assets/images/ico_02.svg');
   }
   .serviceArea ul li:nth-child(3) {
-    background-image: url("../images/ico_03.svg");
+    background-image: url('../assets/images/ico_03.svg');
   }
   .serviceArea ul li:nth-child(4) {
-    background-image: url("../images/ico_04.svg");
+    background-image: url('../assets/images/ico_04.svg');
   }
   .serviceArea ul li:nth-child(5) {
-    background-image: url("../images/ico_05.svg");
+    background-image: url('../assets/images/ico_05.svg');
   }
   .serviceArea ul li:nth-child(6) {
-    background-image: url("../images/ico_06.svg");
+    background-image: url('../assets/images/ico_06.svg');
   }
   .serviceArea ul li h3 {
     font-size: 28px;
@@ -229,7 +229,7 @@
     margin-bottom: 50px;
   }
   .roomArea ul li figure:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -294,7 +294,7 @@
     margin-bottom: 20px;
   }
   .featureArea div ul:after {
-    content: "";
+    content: '';
     display: block;
     visibility: hidden;
     clear: both;
@@ -333,7 +333,7 @@
 
 @media screen and (max-width: 767px) {
   .main_page2 {
-    background-image: url("../images/hero_5.jpg");
+    background-image: url('../assets/images/hero_5.jpg');
     position: relative;
     padding: 180px 0;
   }
@@ -357,22 +357,22 @@
     margin-bottom: 30px;
   }
   .serviceArea ul li:nth-child(1) {
-    background-image: url("../images/ico_01.svg");
+    background-image: url('../assets/images/ico_01.svg');
   }
   .serviceArea ul li:nth-child(2) {
-    background-image: url("../images/ico_02.svg");
+    background-image: url('../assets/images/ico_02.svg');
   }
   .serviceArea ul li:nth-child(3) {
-    background-image: url("../images/ico_03.svg");
+    background-image: url('../assets/images/ico_03.svg');
   }
   .serviceArea ul li:nth-child(4) {
-    background-image: url("../images/ico_04.svg");
+    background-image: url('../assets/images/ico_04.svg');
   }
   .serviceArea ul li:nth-child(5) {
-    background-image: url("../images/ico_05.svg");
+    background-image: url('../assets/images/ico_05.svg');
   }
   .serviceArea ul li:nth-child(6) {
-    background-image: url("../images/ico_06.svg");
+    background-image: url('../assets/images/ico_06.svg');
   }
   .serviceArea ul li h3 {
     font-size: 28px;
